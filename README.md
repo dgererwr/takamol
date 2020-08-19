@@ -1,0 +1,2 @@
+# takamol
+blog 
